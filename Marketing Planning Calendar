@@ -4,3 +4,4 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/MarketingLaunch/marketing-calendar.git
 git push -u origin main
+/* /index.html 200
